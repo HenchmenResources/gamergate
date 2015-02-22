@@ -1,0 +1,31 @@
+# Blender MTL File: 'University of Utah Campus blocks.blend'
+# Material Count: 3
+
+newmtl None
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.800000 0.800000 0.800000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Screen_Shot_2015-02-17_at_4.44.56_PM
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Volumes/SCOTT GREEN/Screen Shot 2015-02-17 at 4.44.56 PM.png
+
+newmtl Screen_Shot_2015-02-19_at_5.07.55_PM
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Authenticated User/Desktop/Screen Shot 2015-02-19 at 5.07.55 PM.png
