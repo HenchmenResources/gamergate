@@ -45,6 +45,7 @@ ModelImporter:
     100078: Union
     100080: Web
     100082: Campus_Scale_Block
+    100084: SW_ASB
     400000: AEB
     400002: Art_Arch
     400004: Bio_ASB
@@ -87,6 +88,7 @@ ModelImporter:
     400078: Union
     400080: Web
     400082: Campus_Scale_Block
+    400084: SW_ASB
     2300000: AEB
     2300002: Art_Arch
     2300004: Bio_ASB
@@ -128,6 +130,7 @@ ModelImporter:
     2300076: Union
     2300078: Web
     2300080: Campus_Scale_Block
+    2300082: SW_ASB
     3300000: AEB
     3300002: Art_Arch
     3300004: Bio_ASB
@@ -169,6 +172,7 @@ ModelImporter:
     3300076: Union
     3300078: Web
     3300080: Campus_Scale_Block
+    3300082: SW_ASB
     4300000: S_Beh
     4300002: Art_Arch
     4300004: FMAB
@@ -209,6 +213,7 @@ ModelImporter:
     4300074: Store
     4300076: Web
     4300078: Sculp
+    4300080: SW_ASB
     7400000: Default Take
     9500000: //RootNode
   materials:
