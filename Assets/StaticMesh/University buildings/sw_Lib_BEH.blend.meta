@@ -1,0 +1,98 @@
+fileFormatVersion: 2
+guid: e2ae0a4099232ac4f925979a4b5f38c5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Library_South_Terrace
+    100002: Sidewalk_Lib_SW
+    100004: Stairs_Lib_SW
+    100006: //RootNode
+    100008: Truck
+    100010: Beh_Walkway_Support
+    100012: Stairs_Lib_SW_001
+    100014: Stairs_Lib_SW_Collider
+    400000: Library_South_Terrace
+    400002: Sidewalk_Lib_SW
+    400004: Stairs_Lib_SW
+    400006: //RootNode
+    400008: Truck
+    400010: Beh_Walkway_Support
+    400012: Stairs_Lib_SW_001
+    400014: Stairs_Lib_SW_Collider
+    2300000: Library_South_Terrace
+    2300002: Sidewalk_Lib_SW
+    2300004: Stairs_Lib_SW
+    2300006: Truck
+    2300008: Beh_Walkway_Support
+    2300010: Stairs_Lib_SW_001
+    2300012: Stairs_Lib_SW_Collider
+    3300000: Library_South_Terrace
+    3300002: Sidewalk_Lib_SW
+    3300004: Stairs_Lib_SW
+    3300006: Truck
+    3300008: Beh_Walkway_Support
+    3300010: Stairs_Lib_SW_001
+    3300012: Stairs_Lib_SW_Collider
+    4300000: Library_South_Terrace
+    4300002: Stairs_Lib_SW
+    4300004: Sidewalk_Lib_SW
+    4300006: Truck
+    4300008: Beh_Walkway_Support
+    4300010: Stairs_Lib_SW_001
+    4300012: Stairs_Lib_SW_Collider
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
