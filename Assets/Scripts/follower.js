@@ -32,7 +32,7 @@
    
    transform.LookAt(target); 
    controller.SimpleMove(speed*transform.forward);
-   rigidbody.velocity = Vector3( 0, rigidbody.velocity.y, 0);
+   GetComponent.<Rigidbody>().velocity = Vector3( 0, GetComponent.<Rigidbody>().velocity.y, 0);
  }
  
 // function ApplyGravity ()
