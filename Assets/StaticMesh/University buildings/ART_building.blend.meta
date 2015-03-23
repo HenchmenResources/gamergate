@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: e9450463beac5914fae583b0e5887a61
+timeCreated: 1426528002
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Basic_Roof_Built_Up_Roof_-_5___530192__Basic_Roof_Built_Up_Roof
+    100004: Basic_Wall_Exterior_10__Conc__229288__Basic_Wall_Exterior_10__C
+    100006: Basic_Wall_Exterior_8__Conc__525197__Basic_Wall_Exterior_8__Con
+    100008: Basic_Wall_Exterior_8__Conc__525197__Basic_Wall_Exterior_8__Con_MeshPart0
+    100010: Basic_Wall_Exterior_8__Conc__525197__Basic_Wall_Exterior_8__Con_MeshPart1
+    100012: Basic_Wall_Generic_-_6___432471__Basic_Wall_Generic_-_6___43247
+    100014: Floor_Concrete_14_1_2___379293__Floor_Concrete_14_1_2___379293_
+    100016: Floor_Concrete_14_1_2___470318__Floor_Concrete_14_1_2___470318_
+    100018: Floor_Concrete_4___287320__Floor_Concrete_4___287320__Geometry
+    400000: //RootNode
+    400002: Basic_Roof_Built_Up_Roof_-_5___530192__Basic_Roof_Built_Up_Roof
+    400004: Basic_Wall_Exterior_10__Conc__229288__Basic_Wall_Exterior_10__C
+    400006: Basic_Wall_Exterior_8__Conc__525197__Basic_Wall_Exterior_8__Con
+    400008: Basic_Wall_Exterior_8__Conc__525197__Basic_Wall_Exterior_8__Con_MeshPart0
+    400010: Basic_Wall_Exterior_8__Conc__525197__Basic_Wall_Exterior_8__Con_MeshPart1
+    400012: Basic_Wall_Generic_-_6___432471__Basic_Wall_Generic_-_6___43247
+    400014: Floor_Concrete_14_1_2___379293__Floor_Concrete_14_1_2___379293_
+    400016: Floor_Concrete_14_1_2___470318__Floor_Concrete_14_1_2___470318_
+    400018: Floor_Concrete_4___287320__Floor_Concrete_4___287320__Geometry
+    2300000: Basic_Roof_Built_Up_Roof_-_5___530192__Basic_Roof_Built_Up_Roof
+    2300002: Basic_Wall_Exterior_10__Conc__229288__Basic_Wall_Exterior_10__C
+    2300004: Basic_Wall_Exterior_8__Conc__525197__Basic_Wall_Exterior_8__Con_MeshPart0
+    2300006: Basic_Wall_Exterior_8__Conc__525197__Basic_Wall_Exterior_8__Con_MeshPart1
+    2300008: Basic_Wall_Generic_-_6___432471__Basic_Wall_Generic_-_6___43247
+    2300010: Floor_Concrete_14_1_2___379293__Floor_Concrete_14_1_2___379293_
+    2300012: Floor_Concrete_14_1_2___470318__Floor_Concrete_14_1_2___470318_
+    2300014: Floor_Concrete_4___287320__Floor_Concrete_4___287320__Geometry
+    3300000: Basic_Roof_Built_Up_Roof_-_5___530192__Basic_Roof_Built_Up_Roof
+    3300002: Basic_Wall_Exterior_10__Conc__229288__Basic_Wall_Exterior_10__C
+    3300004: Basic_Wall_Exterior_8__Conc__525197__Basic_Wall_Exterior_8__Con_MeshPart0
+    3300006: Basic_Wall_Exterior_8__Conc__525197__Basic_Wall_Exterior_8__Con_MeshPart1
+    3300008: Basic_Wall_Generic_-_6___432471__Basic_Wall_Generic_-_6___43247
+    3300010: Floor_Concrete_14_1_2___379293__Floor_Concrete_14_1_2___379293_
+    3300012: Floor_Concrete_14_1_2___470318__Floor_Concrete_14_1_2___470318_
+    3300014: Floor_Concrete_4___287320__Floor_Concrete_4___287320__Geometry
+    4300000: Floor_Concrete_14_1_2___470318__Floor_Concrete_14_1_2___470318_
+    4300002: Floor_Concrete_14_1_2___379293__Floor_Concrete_14_1_2___379293_
+    4300004: Basic_Wall_Generic_-_6___432471__Basic_Wall_Generic_-_6___43247
+    4300006: Basic_Wall_Exterior_8__Conc__525197__Basic_Wall_Exterior_8__Con_MeshPart0
+    4300008: Basic_Wall_Exterior_8__Conc__525197__Basic_Wall_Exterior_8__Con_MeshPart1
+    4300010: Basic_Roof_Built_Up_Roof_-_5___530192__Basic_Roof_Built_Up_Roof
+    4300012: Floor_Concrete_4___287320__Floor_Concrete_4___287320__Geometry
+    4300014: Basic_Wall_Exterior_10__Conc__229288__Basic_Wall_Exterior_10__C
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
