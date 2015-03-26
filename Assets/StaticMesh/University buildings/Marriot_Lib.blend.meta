@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 3e0e031d3847b434fa7867bf13b54011
 ModelImporter:
-  serializedVersion: 16
+  serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
     100002: Marriot_Lib
@@ -11,10 +11,13 @@ ModelImporter:
     400004: Marriot_Lib_High
     2300000: Marriot_Lib
     2300002: Marriot_Lib_High
+    2300004: //RootNode
     3300000: Marriot_Lib
     3300002: Marriot_Lib_High
+    3300004: //RootNode
     4300000: Marriot_Lib_High
     4300002: Marriot_Lib
+    4300004: Basic_Wall_Generic_-_9___253908__Basic_Wall_Generic_-_9___25390
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -44,11 +47,13 @@ ModelImporter:
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
+    keepQuads: 0
     weldVertices: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     splitTangentsAcrossUV: 1
@@ -71,3 +76,5 @@ ModelImporter:
   animationType: 2
   additionalBone: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
